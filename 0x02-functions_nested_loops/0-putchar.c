@@ -2,7 +2,7 @@
 /**
  * main -  prints _purtchar, followed by a new line
  * Return: Always 0 (Success)
- */
+ */A
 int main(void)
 
 {
